@@ -8,8 +8,6 @@ layout: default
       <div class="info-card">
         <h1>Jun Jiang</h1>
         <a href="http://weibo.com/jiangjunv/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <img src="http://www.douban.com/favicon.ico" alt="" width="22"/>
-        <img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/>
       </div>
       <div id="particles-js"></div>
     </div>
