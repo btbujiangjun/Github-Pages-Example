@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Logistic Regression, 机器学习领域的Hello World
+title:      Logistic Regression, 机器学习的Hello World
 category: blog
 description: 对于机器学习小白用户，从哪上手比较好呢？ 嗯，当然是hello world——logistic regression
 ---
