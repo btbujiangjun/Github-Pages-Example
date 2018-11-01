@@ -5,10 +5,12 @@ category: blog
 description: 对于深度学习小白用户，从哪上手比较好呢？ 嗯，当然是hello world——logistic regression
 ---
 
-## Logistic regression在深度学习中的位置
-如果把深度神经网络看作人体，那logistic regression就是细胞。当然，Logistic regression本身也可以工作的很好，想想生命的起源——单细胞动物。
+## Logistic Regression在深度学习中的位置
+如果把深度神经网络看作人体，那Logistic Regression(后简称LR)就是细胞。当然，LR本身也可以工作的很好，想想生命的起源——单细胞动物。
 
-## Logistic Regression能干啥
+## Logistic Regression是个啥
+LR属于参数估计模型，所谓参数估计，是根据观察已有的结果，来学习参数。
+
 
 写博客这个不知道几个“互联网世纪”前的东西，现在还有必要拿出来说吗？不想用太多的理论去说这个命题，先看看两个最近对我影响比较大的两个博客：
 
