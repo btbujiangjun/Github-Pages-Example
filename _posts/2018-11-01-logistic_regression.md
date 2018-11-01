@@ -14,13 +14,19 @@ Logistic Regression与Linear Regression有很大联系。Linear Regression用于
 > Linear Regression + Hypothesis func = Logistic Regression 。
 
 Linear Regression 因变量y服从高斯分布， Logistic Regression因变量y服从伯努利分布。
+
 ## 假设 & 决策函数
 > h(x) = 1/(1 + e^-x)
 
-> x = w0 + w1*x1 + w2*x2 + ... 
+> x = w0 + w1*x1 + w2*x2 + ...
 
 > y^ = 1  if h(x) > 0.5 else y^ = 0
 
+## 代价函数 Cost function
+J(0) 度量y^ 与 y 的差异
+
+Linear Regression,一般用MSE(mean square error): J = 1/2m * E(y^ - y)^2
+Logistic Regression, 一般用CE(cross entropy): J = -1/m * E(yi*log(yi^) + (1 - yi)*log(1-log(yi^))
 
 写博客这个不知道几个“互联网世纪”前的东西，现在还有必要拿出来说吗？不想用太多的理论去说这个命题，先看看两个最近对我影响比较大的两个博客：
 
