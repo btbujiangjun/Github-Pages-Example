@@ -4,3 +4,5 @@ title: Jun Jiang
 url: https://btbujiangjun.github.io
 feed: /atom.xml
 author_info: <a href="https://btbujiangjun.github.io/">Jun Jiang</a>
+
+theme: jekyll-theme-minimal
