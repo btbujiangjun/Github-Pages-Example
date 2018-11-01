@@ -9,8 +9,10 @@ description: 对于深度学习小白用户，从哪上手比较好呢？ 嗯，
 如果把深度神经网络看作人体，那Logistic Regression(后简称LR)就是细胞。当然，LR本身也可以工作的很好，想想生命的起源——单细胞动物。
 
 ## Logistic Regression与Linear Regression
-Logistic Regression与Linear Regression有很大联系。Linear Regression用于对连续值做出预估，其输出集为实数R，如房价预测。Logistic Regression一般用于概率建模，输出一般为[0,1](取决于激活函数)，典型应用场景如CTR预估,二分类问题。
-
+> Logistic Regression与Linear Regression有很大联系。Linear Regression用于对连续值做出预估，其输出集为实数R，如房价预测。Logistic Regression一般用于概率建模，输出一般为[0,1](取决于假设/激活函数)，典型应用场景如CTR预估,二分类问题。
+Linear Regression + Hypothesis func = Logistic Regression
+Linear Regression 因变量y服从高斯分布， Logistic Regression因变量y服从伯努利分布。
+## LR 
 
 写博客这个不知道几个“互联网世纪”前的东西，现在还有必要拿出来说吗？不想用太多的理论去说这个命题，先看看两个最近对我影响比较大的两个博客：
 
